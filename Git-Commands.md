@@ -1,10 +1,10 @@
-#GIT BASIC COMMANDS
+# GIT BASIC COMMANDS
 
-##Initialize GIT
+## Initialize GIT
 ```
 git init
 ```
-##ADD A FILE 
+## ADD A FILE 
 ```
 git add fileName
 ```
